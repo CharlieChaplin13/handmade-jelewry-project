@@ -1,4 +1,6 @@
-@keyframes slide {
+/* Animation styles */
+
+/* @keyframes slide {
   from {
     transform: translateX(-140%) translateY(-50%);
   }
@@ -15,4 +17,4 @@
     opacity: 1;
     transform: translateX(-50%) translateY(100%) scale(1);
   }
-}
+} */
